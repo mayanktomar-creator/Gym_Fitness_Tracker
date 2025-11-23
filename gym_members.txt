@@ -1,0 +1,21 @@
+Name : Rohan
+Age : 21
+Weight(in Kg) : 58.00
+Height(in meters) : 1.72
+BMI=19.61
+
+
+Name : Meena
+Age : 27
+Weight(in Kg) : 78.00
+Height(in meters) : 1.62
+BMI=29.72
+
+
+Name : Dharya
+Age : 21
+Weight(in Kg) : 52.00
+Height(in meters) : 1.71
+BMI=17.78
+
+

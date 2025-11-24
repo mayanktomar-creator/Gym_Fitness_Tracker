@@ -1,0 +1,32 @@
+Algorithm: Gym Fitness Tracker
+
+1. Start the program.
+
+2. Display the main menu:
+      1. Add Gym Member
+      2. View Saved Members
+      3. Exit
+
+3. If user selects “Add Gym Member”:
+      a. Read member name.
+      b. Read age.
+      c. Read weight.
+      d. Read height.
+      e. Calculate BMI using:
+            BMI = weight / (height * height)
+      f. Display BMI value.
+      g. Show fitness category based on BMI.
+      h. Show recommended gym routine.
+      i. Save all details in a file.
+
+4. If user selects "View Saved Members":
+      a. Open the members file.
+      b. Read all stored records.
+      c. Display them on screen.
+
+5. If user selects "Exit":
+      a. Stop the program.
+
+6. Go back to the menu until the user chooses Exit.
+
+7. End.
